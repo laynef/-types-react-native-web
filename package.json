@@ -1,0 +1,14 @@
+{
+  "name": "@types/react-native-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-web": "^0.19.10"
+  }
+}
